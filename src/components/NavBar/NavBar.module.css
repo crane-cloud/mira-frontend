@@ -1,0 +1,32 @@
+.NavArea {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 38rem;
+    padding-top: 2.5rem;
+}
+
+.LogoText {
+    color: #008ac1;
+    font-size: 2rem !important;
+    font-weight: bold;
+}
+
+.PageLogo {
+    display: flex;
+    gap: 1rem;
+}
+
+.CraneCloudLogo {
+    border-right: 3px solid #808080;
+    padding-right: 1rem;
+}
+
+.DocsButton {
+    background-color: #f7b21f;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+    cursor: pointer;
+    border: 1rem;
+}
